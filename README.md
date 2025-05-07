@@ -1,0 +1,2 @@
+This project is about the problem of function placement for slice requests in multi-tenant NFV-based networks using SDN-assisted management and network orchestration. To solve the problem, we proposed a deep deterministic policy gradient algorithm that computes optimal action for each operator in adaptation to the environment dynamics.
+This programming code is written in python language. You should install gym = 0.25.2 and shimmy > 0.2.1 before running it. Use this project to find near optimal schedules for slice requests from tenants.
